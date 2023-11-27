@@ -1,0 +1,24 @@
+body {
+    background-color: #f8f9fa; 
+   }
+   
+   .container {
+    margin-top: 22px; 
+   }
+   
+   h1 {
+    color: #007bff; 
+   }
+   
+   .table {
+       margin-top: 20px; 
+   }
+   
+   .input-group {
+       margin-bottom: 20px; 
+   }
+   
+   .btn-primary {
+       background-color: #28a745; 
+       border-color: #28a745; 
+   }
