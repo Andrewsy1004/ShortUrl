@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "env": "^0.0.2",
+    "express": "^4.18.2",
+    "moongose": "^1.0.0",
+    "shortid": "^2.2.16"
+  }
+}
