@@ -25,6 +25,7 @@ app.set('view engine', 'ejs');
 app.use('/styles', express.static(path.join(__dirname, '../frontend/styles')));
 
 mongoose.connect(process.env.URL_MONGO)
+mongoose.set('strictQuery', false);
 
 app.get('/', async (req, res) => {
   try {
