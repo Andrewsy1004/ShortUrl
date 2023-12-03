@@ -21,6 +21,14 @@ This application is a URL shortener that simplifies the management of long links
 - Frontend: CSS, EJS
 - Database: MongoDB
 
+## Getting Started 🚀
+
+To start using the application, follow these steps:
+
+1. **Installation:** Clone the repository and run `npm install` to install dependencies.
+2. **Enter the Backend folder:** Use `cd Backend` 
+3. **Use the nodemon index.js command:** Run `nodemon index.js` to see the application in your browser.
+
 ## Learn More 📚
 
 For more information about the technologies and tools used, visit:
@@ -29,10 +37,4 @@ For more information about the technologies and tools used, visit:
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [EJS - Embedded JavaScript templating](https://ejs.co/)
 
-## Getting Started 🚀
 
-To start using the application, follow these steps:
-
-1. **Installation:** Clone the repository and run `npm install` to install dependencies.
-2. **Enter the Backend folder:** Use `cd Backend` 
-3. **Use the nodemon index.js command:** Run `nodemon index.js` to see the application in your browser.
