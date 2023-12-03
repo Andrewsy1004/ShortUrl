@@ -11,8 +11,9 @@ This application is a URL shortener that simplifies the management of long links
 
 ## Screenshot 📸
 
-![Project Preview](https://drive.google.com/file/d/1Dle_1SIfe7dcAXttWWV33Hb0qRqpJtHT/view?usp=sharing)
+![Project Preview](https://drive.google.com/uc?id=1Dle_1SIfe7dcAXttWWV33Hb0qRqpJtHT)
 *Preview of the URL shortener application.*
+
 
 ## Technologies Used 🛠️
 
